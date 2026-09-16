@@ -27,7 +27,6 @@ Empecé haciendo APIs en ASP.NET Core y terminé armando plataformas completas: 
 Trabajo con metodología Scrum en equipo, documento lo que construyo, y si algo se puede automatizar, lo automatizo.
 
 ---
----
 
 ## Stack
 
