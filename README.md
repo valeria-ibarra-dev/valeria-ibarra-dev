@@ -22,20 +22,11 @@
 
 ### Sobre mí
 
-Empecé haciendo APIs en ASP.NET Core y terminé armando plataformas completas: bases de datos que aguantan presión, contenedores que escalan con Docker, pipelines que se despliegan solos. Me muevo por todo el stack —del servidor al despliegue, de la base de datos al frontend— y últimamente le metí IA de verdad a mis proyectos: RAG, LLMs y arquitecturas multi-tenant corriendo en producción, no en una demo.
+Empecé haciendo APIs en ASP.NET Core y terminé armando plataformas completas: bases de datos que aguantan presión, contenedores que escalan con Docker, pipelines que se despliegan solos. Me muevo por todo el stack —del servidor al despliegue, de la base de datos al frontend— y últimamente le metí IA de verdad a mis proyectos: RAG, LLMs y arquitecturas multi-tenant corriendo en producción.
 
 Trabajo con metodología Scrum en equipo, documento lo que construyo, y si algo se puede automatizar, lo automatizo.
 
 ---
-
-### Actualmente
-
- Trabajando en **plataformas con IA generativa integrada** (RAG, LLMs) en producción
-<br>
- Aprendiendo a fondo **arquitecturas multi-tenant** y patrones de seguridad avanzados
-<br>
- Pregúntame sobre **C#, ASP.NET Core, arquitectura de bases de datos, o integración de IA**
-
 ---
 
 ## Stack
