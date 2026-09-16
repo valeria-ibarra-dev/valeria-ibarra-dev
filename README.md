@@ -22,9 +22,14 @@
 
 ### Sobre mí
 
-Empecé haciendo APIs en ASP.NET Core y terminé armando plataformas completas: bases de datos que aguantan presión, contenedores que escalan con Docker, pipelines que se despliegan solos. Me muevo por todo el stack —del servidor al despliegue, de la base de datos al frontend— y últimamente le metí IA de verdad a mis proyectos: RAG, LLMs y arquitecturas multi-tenant corriendo en producción.
+Empecé haciendo APIs en ASP.NET Core y terminé armando plataformas completas: bases de datos
+que aguantan presión, contenedores que escalan con Docker, pipelines que se despliegan solos.
+Me muevo por todo el stack, del servidor al despliegue, de la base de datos al frontend, y
+últimamente he aplicado IA a mis proyectos: RAG, LLMs y arquitecturas multi-tenant
+corriendo en producción.
 
-Trabajo con metodología Scrum en equipo, documento lo que construyo, y si algo se puede automatizar, lo automatizo.
+Trabajo con metodología Scrum en equipo, documento lo que construyo, y si algo se puede
+automatizar, lo automatizo.
 
 ---
 
