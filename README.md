@@ -30,11 +30,11 @@ Trabajo con metodología Scrum en equipo, documento lo que construyo, y si algo 
 
 ### Actualmente
 
-🔭 Trabajando en **plataformas con IA generativa integrada** (RAG, LLMs) en producción
+ Trabajando en **plataformas con IA generativa integrada** (RAG, LLMs) en producción
 <br>
-🌱 Aprendiendo a fondo **arquitecturas multi-tenant** y patrones de seguridad avanzados
+ Aprendiendo a fondo **arquitecturas multi-tenant** y patrones de seguridad avanzados
 <br>
-💬 Pregúntame sobre **C#, ASP.NET Core, arquitectura de bases de datos, o integración de IA**
+ Pregúntame sobre **C#, ASP.NET Core, arquitectura de bases de datos, o integración de IA**
 
 ---
 
