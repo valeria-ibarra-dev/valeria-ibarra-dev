@@ -176,10 +176,6 @@ Aplicación de ciudad inteligente para Medellín: combina clima, seguridad ciuda
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=valeria-ibarra-dev&hide_border=true&background=fff0f5&stroke=e91e8c&ring=ff85a1&fire=e91e8c&currStreakLabel=e91e8c&sideLabels=c2185b&currStreakNum=c2185b&sideNums=c2185b&dates=c2185b" />
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=valeria-ibarra-dev&theme=flat&no-frame=true&column=4&margin-w=10&title.color=e91e8c&icon.color=ff85a1&text.color=c2185b" />
-
 </div>
 
 ---
