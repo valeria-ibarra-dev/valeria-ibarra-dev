@@ -102,7 +102,7 @@ Docker · Nginx · CI/CD · AWS EC2
 <tr>
 <td width="50%">
 
-**Plataforma SaaS Multi-tenant con IA**
+**[Plataforma SaaS Multi-tenant con IA](https://github.com/valeria-ibarra-dev/pqrs-saas)**
 <br>
 Plataforma de gestión de PQRS con Clean Architecture, integrando RAG con PostgreSQL + pgvector, LLMs (Groq/Ollama) para triaje automático, y notificaciones en tiempo real con SignalR. Desplegada en AWS EC2.
 <br><br>
