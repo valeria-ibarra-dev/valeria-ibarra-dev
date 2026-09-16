@@ -187,9 +187,9 @@ Aplicación de ciudad inteligente para Medellín: combina clima, seguridad ciuda
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valeria-ibarra-dev/valeria-ibarra-dev/output/dist/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valeria-ibarra-dev/valeria-ibarra-dev/output/dist/snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/valeria-ibarra-dev/valeria-ibarra-dev/output/dist/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valeria-ibarra-dev/valeria-ibarra-dev/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valeria-ibarra-dev/valeria-ibarra-dev/output/snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/valeria-ibarra-dev/valeria-ibarra-dev/output/snake.svg">
 </picture>
 
 <br>
