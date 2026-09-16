@@ -4,9 +4,17 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=E91E8C&center=true&vCenter=true&width=600&lines=Backend+.NET+%7C+C%23+%C2%B7+ASP.NET+Core;Integrando+IA+Generativa+en+Producci%C3%B3n;RAG+%C2%B7+LLMs+%C2%B7+Arquitectura+Multi-tenant" alt="Typing SVG" />
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/%20LinkedIn-Valeria%20Coy%20Ibarra-ff85a1?style=for-the-badge&logoColor=white)](https://linkedin.com/in/valeria-coy-ibarra)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/%20GitHub-valeria--ibarra--dev-ffb3c6?style=for-the-badge&logoColor=white)](https://github.com/valeria-ibarra-dev)
+&nbsp;
+[![Email](https://img.shields.io/badge/%20Email-ibarravaleria939%40gmail.com-ff85a1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibarravaleria939@gmail.com)
+&nbsp;
+[![Portafolio](https://img.shields.io/badge/%20Portafolio-Ver%20sitio-ffb3c6?style=for-the-badge&logoColor=white)](TU-LINK-DE-PORTAFOLIO-AQUI)
 
 </div>
 
@@ -14,9 +22,19 @@
 
 ### Sobre mí
 
-Desarrolladora Full Stack con foco en backend — construyo APIs y sistemas que funcionan en producción. Mi stack principal es **C# con ASP.NET Core**, pero me muevo con comodidad por todo el ciclo: desde modelar una base de datos hasta maquetar una interfaz.
+Empecé haciendo APIs en ASP.NET Core y terminé armando plataformas completas: bases de datos que aguantan presión, contenedores que escalan con Docker, pipelines que se despliegan solos. Me muevo por todo el stack —del servidor al despliegue, de la base de datos al frontend— y últimamente le metí IA de verdad a mis proyectos: RAG, LLMs y arquitecturas multi-tenant corriendo en producción, no en una demo.
 
-En los últimos meses sumé algo que me tiene emocionada: integrar **IA generativa de forma real en producción** — RAG con bases de datos vectoriales, LLMs para clasificación automática, y arquitecturas multi-tenant seguras. Trabajo con **Docker**, **Nginx** y pipelines **CI/CD con GitHub Actions**, desplegando en **AWS EC2**. Me gusta la metodología **Scrum** para trabajo en equipo real.
+Trabajo con metodología Scrum en equipo, documento lo que construyo, y si algo se puede automatizar, lo automatizo.
+
+---
+
+### Actualmente
+
+🔭 Trabajando en **plataformas con IA generativa integrada** (RAG, LLMs) en producción
+<br>
+🌱 Aprendiendo a fondo **arquitecturas multi-tenant** y patrones de seguridad avanzados
+<br>
+💬 Pregúntame sobre **C#, ASP.NET Core, arquitectura de bases de datos, o integración de IA**
 
 ---
 
@@ -154,4 +172,30 @@ Aplicación de ciudad inteligente para Medellín: combina clima, seguridad ciuda
 
 <img height="180em" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=valeria-ibarra-dev&layout=compact&hide_border=true&bg_color=fff0f5&title_color=e91e8c&text_color=c2185b" />
 
+<br>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=valeria-ibarra-dev&hide_border=true&background=fff0f5&stroke=e91e8c&ring=ff85a1&fire=e91e8c&currStreakLabel=e91e8c&sideLabels=c2185b&currStreakNum=c2185b&sideNums=c2185b&dates=c2185b" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=valeria-ibarra-dev&theme=flat&no-frame=true&column=4&margin-w=10&title.color=e91e8c&icon.color=ff85a1&text.color=c2185b" />
+
 </div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valeria-ibarra-dev/valeria-ibarra-dev/output/dist/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valeria-ibarra-dev/valeria-ibarra-dev/output/dist/snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/valeria-ibarra-dev/valeria-ibarra-dev/output/dist/snake.svg">
+</picture>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=valeria-ibarra-dev&color=e91e8c&style=for-the-badge&label=Visitas+al+perfil" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f4c0d1,50:ff85a1,100:ffb3c6&height=120&section=footer"/>
